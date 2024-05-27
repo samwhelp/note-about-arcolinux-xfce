@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,15 @@
 | 微調腳本 |
 | --- |
 | [arcolinux-xfce-adjustment](https://github.com/samwhelp/arcolinux-xfce-adjustment/tree/main/prototype/main) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-arcolinux-xfce/read/subject/grub.html) |
 
 
 
